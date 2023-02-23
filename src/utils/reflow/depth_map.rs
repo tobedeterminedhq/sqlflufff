@@ -1,3 +1,5 @@
+use crate::core::parser::segments::base::PathStep;
+
 /// An element of the stack_positions property of DepthInfo.
 #[derive(Debug, Clone)]
 pub struct StackPosition {
