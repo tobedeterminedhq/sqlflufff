@@ -7,10 +7,7 @@ pub struct StackPosition {
 }
 
 impl StackPosition {
-fn _stack_pos_interpreter(path_step: PathStep) -> String {
-
-}
-
+    fn _stack_pos_interpreter(path_step: PathStep) -> String {}
 }
 
 #[derive(Debug, Clone)]
